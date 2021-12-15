@@ -1,6 +1,6 @@
 # Welcome to #reCyclers
 ***
-![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-4/main/Pictures/Header%20V2.jpg?token=AKP4SX45Y7HE5A7IDEEEQVTBYMM3I)
+[![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-4/main/Pictures/HeaderIntro.jpg?token=AKP3Y2FJPWGVKGOO6AZOJ6LBYNZHI)](https://youtu.be/gIaj4SKLbf0)
 
 ## About #reCyclers
 
