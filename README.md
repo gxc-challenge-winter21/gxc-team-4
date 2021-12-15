@@ -1,6 +1,6 @@
 # Welcome to #reCyclers
 ***
-![](https://github.com/gxc-challenge-winter21/gxc-team-4/blob/main/Pictures/Header%20V2.jpg)
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-4/main/Pictures/Header%20V2.jpg?token=AKP4SX45Y7HE5A7IDEEEQVTBYMM3I)
 
 ## About #reCyclers
 
@@ -11,7 +11,7 @@ During the entire process of this project the aspects of health, affordability a
 ***
 
 ## Storyboard
-![](https://github.com/gxc-challenge-winter21/gxc-team-4/blob/main/20211103_storyboard_team4.jpeg)
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-4/main/20211103_storyboard_team4.jpeg?token=AKP4SXZI6A7KWITPG2G4ORTBYMNIM)
 A more detailed look at the storyboard you will finde [here](https://github.com/gxc-challenge-winter21/gxc-team-4/wiki/Storyboard).
 
 ***
