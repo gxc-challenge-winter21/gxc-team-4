@@ -20,4 +20,4 @@ A more detailed look at the storyboard you will finde [here](https://github.com/
 
 In order to to bring innovation and convenience to our customers the services comes with the app #reCyclers. This allows the end user to book bikes, plan trips and redeem their reward points in the integrated DB shops. This app was already designed and given to users for the first feedback to ensure high quality and usability of the design, this can be seen in more detail in our wiki on the [prototype site](https://github.com/gxc-challenge-winter21/gxc-team-4/wiki/Prototyping-Sprint-2).
 
-![](https://github.com/gxc-challenge-winter21/gxc-team-4/blob/main/Pictures/AppScreenshots.jpg)
+![](https://github.com/gxc-challenge-winter21/gxc-team-4/blob/main/Pictures/AppScreenshotsQR.jpg)
